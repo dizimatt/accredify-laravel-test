@@ -3,6 +3,7 @@ This package has been constructed as a complete set of docker containers - conta
 
 in order to prepare this package, unsure you have docker installed,  and run the following in the root of this package:
 $ docker compose up --build -d
+ - rename/move the laravel/.env.example file to .env
 
 - this will build and launch the complete package
 
